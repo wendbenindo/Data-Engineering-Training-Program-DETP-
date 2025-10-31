@@ -11,3 +11,5 @@ print(my_dict.get('list_matiere'))
 #loop to display key and value of the differents items of the dictionnary 
 for key,value in my_dict.items():
     print(f'key:{key} value:{value}')
+
+
